@@ -5,12 +5,12 @@ slug: documentation
 lead: pages.documentation.lead
 ---
 
-{% tf documentation/table-options.md %}
+{% raw documentation/table-options.md %}
 
-{% tf documentation/column-options.md %}
+{% raw documentation/column-options.md %}
 
-{% tf documentation/events.md %}
+{% raw documentation/events.md %}
 
-{% tf documentation/methods.md %}
+{% raw documentation/methods.md %}
 
-{% tf documentation/localizations.md %}
+{% raw documentation/localizations.md %}
